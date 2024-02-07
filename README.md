@@ -4,12 +4,19 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-[Marcus Du](https://github.com/Quadram13)
+[Marcus Du](https://github.com/Quadram13)<br>
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
+Alex Du(my brother)<br>
+Goals/needs/desires:<br>
+- Wants to be able to purchase digital copies of older/retro video games
+- Wants to be able to do so on the go<br>
+Problems/frustrations:<br>
+- Is dissatisfied with distribution services like Steam which have too many extra functions that don't have to do with simply buying a game
+- Most retro games(ROMs for emulators) usually require piracy, and he would like to purchase these legally because he plans on working for the government in the future<br>
+
 
 ## Product Vision Statement
 
@@ -17,7 +24,9 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a person who still lives with their parents, I want to be able to legitimately own copies of old video games so that my ISP does not send a stern letter to my mom and dad.<br>
+As a person who gets distracted easily, I want to purchase video games without being bombarded by additional features so that I can spend as little time online as possible.<br>
+
 
 ## Activity Diagrams
 
