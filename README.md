@@ -32,17 +32,12 @@ Problems/frustrations:
 
 **Ellie Samson (Vanessa's friend)**<br>
 Goals/needs/desires: 
--	Ellie wants an app that makes it convenient and easy to browse and purchase videogames for a variety of platforms (both her Xbox and her Nintendo Switch) 
--	She wishes for personalized recommendations based on his gaming preferences and past purchases. 
--	She wants to stay informed about new game releases based on her preferences and past purchases. 
--	She wants an easy payment process with multiple payment options (such as pay now or pay later) and multiple shipping options. 
--	She also wishes for once app that would tell her the best deals on games and which stores to find them in. 
+-	An app that makes it convenient and easy to browse and purchase videogames for a variety of platforms (both her Xbox and her Nintendo Switch) 
+-	Personalized recommendations based on gaming preferences and past purchases. 
             
 Problems/frustrations: 
--	Ellie often finds it hard to find niche, cozy or indie games in local stores. 
--	She finds it time consuming to navigate through multiple online stores to find the best deals or specific games. 
--	She often will miss deals and limited time offers because she doesn’t receive timely updates. She finds updates from multiple sources overbearing. 
--	She often finds video game stores/websites to be cumbersome and sometimes overwhelming. 
+-	It's hard to find niche, cozy or indie games in local stores. 
+-	Time consuming to navigate through multiple online stores to find the best deals or specific games. 
 
 ## Product Vision Statement
 Our vision is to create user-friendly video game app, where every gamer can discover effortlessly and purchase their desired games, with reliable after-sale services.
