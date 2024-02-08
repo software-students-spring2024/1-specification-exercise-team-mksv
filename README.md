@@ -66,6 +66,8 @@ Our vision is to create user-friendly video game app, where every gamer can disc
 8.	As a user, I want the option to purchase a game online and have it delivered to my doorstep, or to pick it up in store at my convenience, so that I can choose the most suitable method based on my schedule and preferences.
 9.	As a customer, I want to compare prices amongst different sellers so that I can get the best deal on the game I want.
 10.	As a customer, I want an easy to use organizational layout with multiple different filter options so that I can search for specific games/series/consoles without wasting too much time.
+11.	As a gamer, I want a feature where I can scan the serial number/barcode so that I can get the game information right away.
+
 
 
 ## Activity Diagrams
