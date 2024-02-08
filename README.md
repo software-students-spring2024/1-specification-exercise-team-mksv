@@ -43,13 +43,13 @@ Problems/frustrations:
 
 **Linda Ahmed (Sara's friend)**<br>
 Goals/needs/desires: 
--	Show pricings from different websites and stores for a comparison of different costs.
--	Chat function or forum between buyers/sellers to talk about the pricing, give recommendations, etc.
+-	Show pricings from different websites and stores for a comparison of different costs to find best price.
+-	Chat function or discussion forum between buyers/sellers to talk about the pricing, give recommendations, etc.
+-	Feature that can scan serial numbers / barcode of game to bring up information quickly (without searching). 
             
 Problems/frustrations: 
 -	Search and arganization can be messy when searching for specific games/consoles/series.
 -	There's a lot of inauthentic items on the market.  
-
 
 
 ## Product Vision Statement
