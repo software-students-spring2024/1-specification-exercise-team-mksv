@@ -5,12 +5,13 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Linkun Wan](https://github.com/KKun117)
+
 [Marcus Du](https://github.com/Quadram13)
 
 ## Stakeholders
 
 
-**Alex Du(Marcus's brother)**
+**Alex Du(Marcus's brother)**<br>
 Goals/needs/desires:
 - Wants to be able to purchase digital copies of older/retro video games
 - Wants to be able to do so on the go
@@ -20,7 +21,7 @@ Problems/frustrations:
 - Most retro games(ROMs for emulators) usually require piracy, and he would like to purchase these legally because he plans on working for the government in the future
 
 
-**Kevin Zhang(Kun's friend, an extreme game lover)**
+**Kevin Zhang(Kun's friend, an extreme game lover)**<br>
 Goals/needs/desires:
 - All video games should be easy to find the game the user needs.
 - There should be in-time custom services (if user find out he does not like this game in first few days, he is able to get a refund)
