@@ -72,9 +72,12 @@ Our vision is to create user-friendly video game app, where every gamer can disc
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Diagram 1](/Screenshot%202024-02-12%20at%2008.44.00.png)
+![Diagram 2](/Screenshot%202024-02-12%20at%2008.47.22.png)
+
+
+
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/file/jb6olTaNUdsWerrESs6N7p/Video-Game-App---Project?type=design&node-id=0-1&mode=design&t=nxH6hkvHbVkZ67ux-0
 
